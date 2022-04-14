@@ -5,7 +5,7 @@ This analysis was conducted to determine what charity applications would be succ
 
 ##Results
 
-### Data Processomg
+### Data Processing
 The variable specification for the model are seen below:
 
 - Target Variable: IS_SUCCESSFUL
